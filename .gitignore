@@ -20,6 +20,10 @@ lib64/
 parts/
 sdist/
 var/
+scripts/
+tcl/
+include/
+.idea/
 *.egg-info/
 .installed.cfg
 *.egg
